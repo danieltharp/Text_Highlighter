@@ -4,6 +4,8 @@
 
 *Note: This package currently exists solely to fix the `Fatal error: Uncaught Error: [] operator not supported for strings in /usr/share/php/Text/Highlighter/Renderer/Array.php:154` bug in the mainline pear package found [here](https://github.com/pear/Text_Highlighter).*
 
+Install this with composer: `"bluesoul/Text_Highlighter"`
+
 Introduction
 ============
 
